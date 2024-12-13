@@ -6,7 +6,7 @@ Crime rates and patterns are critical metrics for ensuring public safety and opt
 
 These efforts aim to empower stakeholders, including law enforcement agencies and policymakers, with actionable insights to enhance resource allocation, improve patrol schedules, and implement targeted interventions effectively.
 
-****SOURCE SYSTEMS** **
+**SOURCE SYSTEMS** 
 
 
 The primary source of data for this project is the publicly available Chicago crime dataset. This dataset includes detailed attributes such as: 
